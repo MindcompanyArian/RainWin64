@@ -1,3 +1,5 @@
+//This is the main file, where all of the drops are initiated.
+
 color backgroundColor = color(0, 0, 30);
 int rainDrops = 100;
 
